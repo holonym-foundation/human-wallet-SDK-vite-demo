@@ -6,7 +6,7 @@ import {
   type SilkEthereumProviderInterface,
   initSilk,
 } from "@silk-wallet/silk-wallet-sdk";
-import type { InitSilkOptions } from "@silk-wallet/silk-wallet-sdk/dist/lib/provider/types";
+import type { InitSilkOptions } from "@silk-wallet/silk-wallet-sdk";
 
 // For reference: WAGMI connector event map: wagmi/packages/core/src/connectors/createConnector.ts
 // type ConnectorEventMap = {
